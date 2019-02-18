@@ -9,14 +9,14 @@ A password manager exists in 3 possible states:
 
 
 In a running locked state, the master password is recoverable from:
-*1Password 4
-*1Password 7
-*LastPass for Applications
+* 1Password 4
+* 1Password 7
+* LastPass for Applications
 
 In a running locked state, one or more entries are recoverable from:
-*1Password 4
-*1Password 7
-*LastPass for Applications
-*Dashlane
-*KeePass 2
+* 1Password 4
+* 1Password 7
+* LastPass for Applications
+* Dashlane
+* KeePass 2
 
