@@ -11,12 +11,13 @@ A password manager exists in 3 possible states:
 In a running locked state, the master password is recoverable from:
 * 1Password 4
 * 1Password 7
-* LastPass for Applications
+* ~~LastPass for Applications~~ (Fixed Feb 18 2019:https://lastpass.com/upgrade.php?fromwebsite=1&releasenotes=1)
+* ~~RoboForm~~ (Fixed Feb 20 2019:https://www.roboform.com/news-windows)
 
 In a running locked state, one or more entries are recoverable from:
 * 1Password 4
 * 1Password 7
-* LastPass for Applications
+* ~~LastPass for Applications~~ (Fixed Feb 18 2019:https://lastpass.com/upgrade.php?fromwebsite=1&releasenotes=1)
 * Dashlane
 * KeePass 2
 
